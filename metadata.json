@@ -1,0 +1,5 @@
+{
+  "name": "Excel Date Formatter",
+  "description": "Upload an Excel file to automatically convert date formats to text and replace slashes with dashes.",
+  "requestFramePermissions": []
+}
